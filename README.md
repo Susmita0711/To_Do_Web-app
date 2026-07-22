@@ -153,6 +153,9 @@ Framer Motion transitions throughout
 </div>
 
 <br/>
+## ✨ Interface 
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/d55c5077-1a93-4455-8f26-664326bab9d3" />
+<img width="1700" height="902" alt="image" src="https://github.com/user-attachments/assets/28fd99f4-e64c-43ab-b753-1a0962f36cca" />
 
 ## 🚀 Getting Started
 
