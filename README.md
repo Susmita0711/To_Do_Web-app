@@ -12,9 +12,12 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-pink?style=for-the-badge)
+
+<br/>
+
+[![Live](https://img.shields.io/badge/Live-Site-6366F1?style=for-the-badge&logo=firebase&logoColor=white)](https://as-flowdo.web.app)
 
 </div>
 
@@ -174,6 +177,7 @@ npm run dev
 <br/>
 
 > 
+
 <br/>
 
 ## ⚙️ Environment Variables
@@ -291,14 +295,6 @@ Track & achieve
 
 <br/>
 
-<br/>
-
-<br/>
-
-</div>
-
-<br/>
-
 ## 🚀 Deploy
 
 ```bash
@@ -328,8 +324,6 @@ git push origin feature/amazing-feature
 
 # Open a Pull Request
 ```
-
-<br/>
 
 <br/>
 
